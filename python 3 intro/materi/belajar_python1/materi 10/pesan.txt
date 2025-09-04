@@ -1,0 +1,12 @@
+eyyy masboy
+materi 10
+print('materi 19')
+print('--------------------')
+file_path = r'C:\Users\dell 7490\Desktop\python\materi\NEW FOLDER\materi10\pesan.txt'
+file_pesan = open(file_path,'r')
+#baca isi file
+isi = file_pesan.read()
+#tampilkan output isi pesan
+print(f'isi pesan -> {isi}')
+#tutup file
+file_pesan.close()
