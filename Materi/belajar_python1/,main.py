@@ -7,12 +7,12 @@ elif (nilaiUmur == "10" ):
  print("jelek")
 else:
   print("ganteng")
-if (statuskehadiran):
+if ("statusKehadiran"):
   kelasBudi = "A"
-statusKelasbudi = kelasbudi != "c"
+statusKelasbudi = kelasBudi != "c"
 print("statusKelasbudi:")
 
-apa = gapaham
+apa = "gapaham"
 print(apa)
 
 apa="gapaham"

@@ -101,4 +101,3 @@ if (n == "ya, iya, y, yes"):
     print("Suruh mandi")
 else:
     print("alhamdulillah")
-
