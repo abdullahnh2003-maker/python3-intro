@@ -1,0 +1,17 @@
+{
+  "anggota": [
+    {
+      "nama": "zaid",
+      "pinjam": [
+        {"judul": "Sirah Nabawiyah", "tanggal": "2025-08-21", "kembali": false},
+        {"judul": "Fiqh Sunnah", "tanggal": "2025-08-15", "kembali": true}
+      ]
+    },
+    {
+      "nama": "maryam",
+      "pinjam": [
+        {"judul": "Riyadhus Shalihin", "tanggal": "2025-08-20", "kembali": false}
+      ]
+    }
+  ]
+}
