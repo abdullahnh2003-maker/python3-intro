@@ -89,3 +89,15 @@ print("\nNILAI AKHIR RAPORT = ", RAPOT)
 
 # print("\nNILAI AKHRI ASLI = ", HASIL)
 # print("\nNILAI AKHRI RAPORT = ", RAPOT)
+# print("======= KALKULATOR UJIAN =======")
+
+# soal_yang_benar = int(input("MASUKAN NILAI = "))
+
+# print("\n======= HASIL UJIAN =======")
+
+# HASIL = soal_yang_benar * 2.5
+
+# RAPOT = soal_yang_benar * 5
+
+# print("\nNILAI AKHIR ASLI = ", HASIL)
+# print("\nNILAI AKHIR RAPORT = ", RAPOT)
